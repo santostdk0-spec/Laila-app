@@ -1,0 +1,9 @@
+{
+  "name": "Laila — Assistente Pessoal",
+  "short_name": "Laila",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#773cff",
+  "description": "Sua assistente pessoal"
+}
